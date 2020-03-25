@@ -1,0 +1,11 @@
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+/allstatic/
+local_settings
+venv
+django_cheat_sheet.txt
+.vscode
+django.png
